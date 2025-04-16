@@ -36,7 +36,8 @@ All computations are performed using Python (`numpy`, `matplotlib`, `numpy_finan
 
 A `matplotlib`-based bar chart shows the annual cash flows with red for investment/expense and green for revenue/gain. Numerical labels use human-readable format (k, M, Cr).
 
-![Cash Flow Diagram] ![image](https://github.com/user-attachments/assets/dd1ce795-f356-4ad7-aeb8-9377dc1529be)
+Cash Flow Diagram 
+![image](https://github.com/user-attachments/assets/dd1ce795-f356-4ad7-aeb8-9377dc1529be)
 
 
 ---
